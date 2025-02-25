@@ -1,0 +1,10 @@
+Enter the minimum password length: 4
+Enter the maximum password length: 7
+Include lowercase letters? (y/n): y
+Include uppercase letters? (y/n): n
+Include digits? (y/n): y
+Include symbols? (y/n): y
+Generated Password: g6v/n#
+Password Strength: Moderate
+
+Process finished with exit code 0
